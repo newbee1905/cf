@@ -3,7 +3,15 @@
 version = 3
 
 [[package]]
-name = "A"
+name = "A_1922"
+version = "0.1.0"
+
+[[package]]
+name = "B_1922"
+version = "0.1.0"
+
+[[package]]
+name = "C_1922"
 version = "0.1.0"
 
 [[package]]
